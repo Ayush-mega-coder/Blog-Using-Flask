@@ -1,0 +1,30 @@
+
+
+{
+  "params":
+  {
+    "local_server": "True",
+    "local_uri": "mysql://root:@localhost/coding",
+    "prod_uri": "mysql://root:@localhost/coding",
+    "fb_url":"https://facebook.com/coding",
+    "tw_url":"https://twitter.com/coding",
+    "git_url":"https://github.com/coding",
+    "blog_name":"Spunkey Writes",
+    "tag_line": "A Thing Of Beauty Is Joy Forever",
+    "gmail-user": "aayupurohit151@gmail.com",
+    "gmail-password": "9761979121",
+    "about_text": "Hey, my name is Ayush Purohit and i write blogs.",
+    "number_of_post": 3,
+    "login_img": "login.svg",
+    "admin_user": "ayush",
+    "admin_password": "ayush",
+    "upload_location": "E:\\Spunkey\\Flask"
+
+
+  }
+
+
+
+
+
+}
